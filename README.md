@@ -1,3 +1,3 @@
-# git-practise
+# git-practice
 
-- This repo is used for practising git
+- This repo is used for practicing git
